@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-hotel-icon">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="hotel-icon" clip-path="url(#clip-hotel-icon)">
+    <rect width="50" height="50" fill="rgba(255,255,255,0)"/>
+    <g id="gas-station" transform="translate(5.305 6.048)">
+      <path id="Path_1029" data-name="Path 1029" d="M4.045,4.445S9.011.333,11.479.848,22.99.812,24.1,1.927s3.752,3.19,3.6,5.192a17.2,17.2,0,0,0,0,3.2h6.559s2.54,2.325,1.99,5.276-.72,19.976-.72,19.976L3,36.053Z" transform="translate(0.818 0.219)" fill="#41c0f0"/>
+      <path id="Path_512" data-name="Path 512" d="M33.462,8.884h-3.85V7.4a7.411,7.411,0,0,0-7.4-7.4H10.364a7.411,7.411,0,0,0-7.4,7.4V34.943H1.481a1.481,1.481,0,0,0,0,2.961H37.908a1.481,1.481,0,0,0,0-2.961h-8.3v-23.1h3.85a1.482,1.482,0,0,1,1.481,1.481v1.481H33.462a1.481,1.481,0,0,0,0,2.961h1.481V35.584H37.9V13.326A4.447,4.447,0,0,0,33.462,8.884ZM5.922,34.943V7.4a4.447,4.447,0,0,1,4.442-4.442H22.209A4.447,4.447,0,0,1,26.651,7.4V34.943Z" transform="translate(0)" fill="#58489d"/>
+      <path id="Path_513" data-name="Path 513" d="M130.364,80h-5.922A4.447,4.447,0,0,0,120,84.442V96.166h14.806V84.442A4.447,4.447,0,0,0,130.364,80Zm1.481,16.166h-8.884V84.442a1.482,1.482,0,0,1,1.481-1.481h5.922a1.482,1.482,0,0,1,1.481,1.481Z" transform="translate(-110.633 -60.446)" fill="#58489d"/>
+      <g id="Group_348" data-name="Group 348" transform="translate(12.287 7.85)">
+        <path id="Path_522" data-name="Path 522" d="M214.061,393.481a1.481,1.481,0,0,0,1.481,1.481h4.37a1.481,1.481,0,0,0,0-2.961h-4.37A1.481,1.481,0,0,0,214.061,393.481Z" transform="translate(-213.03 -389.329)" fill="#fff"/>
+        <path id="Path_523" data-name="Path 523" d="M0,1.481A1.481,1.481,0,0,0,1.481,2.961H7.8A1.481,1.481,0,1,0,7.8,0H1.481A1.481,1.481,0,0,0,0,1.481Z" transform="translate(2.961) rotate(90)" fill="#fff"/>
+        <path id="Path_524" data-name="Path 524" d="M0,1.481A1.481,1.481,0,0,0,1.481,2.961H7.8A1.481,1.481,0,1,0,7.8,0H1.481A1.481,1.481,0,0,0,0,1.481Z" transform="translate(9.336) rotate(90)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
